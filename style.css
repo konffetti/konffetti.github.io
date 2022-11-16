@@ -1,0 +1,16 @@
+* {
+    font-family: 'JetBrains Mono', serif;
+    font-size: 14px;
+}
+body {
+    background: rgb(218, 253, 242);
+    
+}
+h1 {
+    font-size: 1.5em;
+    color: #0000cd;
+    background: rgb(152, 190, 247);
+    font-family: inherit;
+    padding: 15px 0;
+    
+}
